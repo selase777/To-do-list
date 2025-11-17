@@ -10,7 +10,7 @@ div > ul {
 div > ul > li {
     font-family: 'Courier New', monospace;
     font-size: 18px;
-    color: rgb(41, 21, 88);
+    color: rgb(21, 72, 88);
     margin: 8px 0;
 }
 body {
@@ -22,7 +22,7 @@ body {
 div > .add-task {
     margin-top: 20px;
     text-align: center;
-    color: blue;
+    color: rgb(238, 0, 255);
 }
 div > .add-task > input {
     padding: 8px;
