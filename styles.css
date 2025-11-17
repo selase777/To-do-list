@@ -8,7 +8,7 @@ div > ul {
     padding: 0;
 }
 div > ul > li {
-    font-family: 'Courier New', monospace;
+    font-family: 'Times New Roman', serif;
     font-size: 18px;
     color: rgb(21, 72, 88);
     margin: 8px 0;
